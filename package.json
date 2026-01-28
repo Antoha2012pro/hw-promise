@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Antoha2012pro/hw-promise/issues"
   },
-  "homepage": "https://github.com/Antoha2012pro/hw-promise#readme"
+  "homepage": "https://github.com/Antoha2012pro/hw-promise#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
 }
